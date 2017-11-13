@@ -1,5 +1,5 @@
 {
-  "name": "angular-motion",
+  "name": "priotas-angular-motion",
   "description": "AngularMotion - Fancy CSS3 animations for AngularJS",
   "version": "0.5.0",
   "keywords": [
@@ -7,8 +7,6 @@
     "animation"
   ],
   "main": "dist/angular-motion.css",
-  "homepage": "http://mgcrea.github.io/angular-motion",
-  "bugs": "https://github.com/mgcrea/angular-motion/issues",
   "author": {
     "name": "Olivier Louvignes",
     "email": "olivier@mg-crea.com",
@@ -16,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mgcrea/angular-motion.git"
+    "url": "https://github.com/priotas/angular-motion.git"
   },
   "license": "MIT",
   "dependencies": {},
